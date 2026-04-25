@@ -21,7 +21,7 @@
 
 **Задача:** Регрессия — предсказание суммы месячных трат клиента (Customer Lifetime Value)
 
-**Датасет:** nline Retail (транзакции интернет-магазина) 
+**Датасет:** nline Retail (транзакции интернет-магазина)  https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 **Целевая метрика:** MAE (Mean Absolute Error) — основная, RMSE, R² — дополнительные.
 
