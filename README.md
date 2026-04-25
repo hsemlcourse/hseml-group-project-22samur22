@@ -68,7 +68,6 @@ pip install -r requirements.txt
 
 ## Данные
 - `data/raw/` — исходные файлы
-- `data/processed/` — предобработанные данные
 
 
 ## Результаты
