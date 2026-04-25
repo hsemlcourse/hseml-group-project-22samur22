@@ -53,19 +53,24 @@
 
 ## Запуск
 
-Этот блок замените способом запуска вашего сервиса.
+
 ```bash
 # 1. Клонировать репозиторий
-git clone <url>
-cd <repo-name>
+git clone https://github.com/hsemlcourse/hseml-group-project-22samur22.git
+cd hseml-group-project-22samur22
 
 # 2. Создать виртуальное окружение
 python -m venv .venv
-source .venv/bin/activate   # Linux/macOS
-# .venv\Scripts\activate    # Windows
+# Windows:
+.venv\Scripts\activate
+# Linux/macOS:
+# source .venv/bin/activate
 
 # 3. Установить зависимости
 pip install -r requirements.txt
+
+# 4. Открыть ноутбук с проектом
+jupyter notebook notebooks/Мурадханов_Самурхан_CP1.ipynb
 ```
 
 ## Данные
